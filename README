@@ -1,3 +1,5 @@
 You can make fun LED blinking patterns using your Arduino microcontroller.
 
-This is a code example of how to make some blinking patterns.
+This is a code example of how to make some blinking patterns. See more information about the
+hardware set up at http://scottpustay.com/2011/06/29/making-led-blinking-patterns-with-an-arduino/
+as well as see some video of the light show.

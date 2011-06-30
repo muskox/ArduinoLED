@@ -4,6 +4,9 @@
 // This is a really simple example of how to make some fun LED patterns
 // with your Arduino.
 //
+// See more on my blog post at 
+// http://scottpustay.com/2011/06/29/making-led-blinking-patterns-with-an-arduino/
+//
 // I have LEDs being powered by output pins 1 through 13. This program
 // cycles these LEDs on and off to make the pattern. 
 // Don't forget to add your resistors to the simple circuit. I'm calling
